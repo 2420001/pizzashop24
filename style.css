@@ -1,0 +1,11 @@
+.headerset{
+	padding-top: 200px;
+	box-sizing: border-box;
+
+}
+
+
+#videoBG {
+	position: fixed;
+	z-index: -1;
+}
